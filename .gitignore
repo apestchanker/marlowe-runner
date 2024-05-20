@@ -27,3 +27,6 @@ e2e/dist
 prototypes/marlowe-graph/node_modules
 prototypes/marlowe-graph/public
 
+ssl/cert.pem
+ssl/csr.pem
+ssl/key.pem
